@@ -1,0 +1,4 @@
+ace of Clubs, two of Clubs, three of Clubs, four of Clubs, five of Clubs, six of Clubs, seven of Clubs, eight of Clubs, nine of Clubs, ten of Clubs, jack of Clubs, queen of Clubs, king of Clubs
+ace of Diamonds, two of Diamonds, three of Diamonds, four of Diamonds, five of Diamonds, six of Diamonds, seven of Diamonds, eight of Diamonds, nine of Diamonds, ten of Diamonds, jack of Diamonds, queen of Diamonds, king of Diamonds
+ace of Hearts, two of Hearts, three of Hearts, four of Hearts, five of Hearts, six of Hearts, seven of Hearts, eight of Hearts, nine of Hearts, ten of Hearts, jack of Hearts, queen of Hearts, king of Hearts
+ace of Spades, two of Spades, three of Spades, four of Spades, five of Spades, six of Spades, seven of Spades, eight of Spades, nine of Spades, ten of Spades, jack of Spades, queen of Spades, king of Spades
